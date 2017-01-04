@@ -19,3 +19,5 @@ how i envison the CLI
 5. repeat
 ???
 profit
+
+started bin for the cli under bin/cli-dog-app, puts hello world to test if it works
