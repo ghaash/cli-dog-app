@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-puts "Places you can take your dog"
+# puts "Places you can take your dog"
+
+BringFido::CLI.new.call
